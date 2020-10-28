@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+margin: 0;
+    background-color: yellow;
+}
+
+#hi{
+   color:blueviolet;
+    border: solid blue 5px;
+}
+
+#me{
+color: coral;
+    font-size: 28px;
+}
+
+.headers{
+    color: darkmagenta;
+    font-size: 25px;
+    font-variant: small-caps;
+    
+}
+
+.images{
+   border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#books{
+    font-size:23px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+#origami{
+    font-size:23px;
+   color: darkmagenta;
+    text-decoration: underline;
+}
+
+#piano{
+    font-size:23px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+#bharatnatyam{
+    font-size:23px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+#coding{
+    font-size:23px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+#doodles{
+    font-size:23px;
+   color: darkmagenta;
+    text-decoration: underline;
+}
+
+#cardboard{
+    font-size:23px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+.section1{
+    background-color: cyan;
+}
+
+.section2{
+    background-color: fuchsia;
+}
+
+#menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right:30px;
+    z-index:10;
+    cursor: pointer;
+    
+}
+
+.list{
+    float:left;
+    color:darkorchid;
+    font-family: 'Henny Penny', cursive;
+    font-size:15px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right: 5px;
+    
+    
+}
+.list:hover{
+    background-color: deeppink;
+    font-size:23px;
+}
